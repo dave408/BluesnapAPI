@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-#Bluesnap API
+A Demo on how to place API call on Bluesnap web server
 <br>
 Bluesnap is an online payment processor as well as my employer :)<br>
 This project started from a code-example I wrote for fun during the weekend in order to see how difficult is it to implement our own API.
