@@ -1,13 +1,6 @@
-<<<<<<< HEAD
 A Demo on how to place API call on Bluesnap web server
 <br>
 Bluesnap is an online payment processor as well as my employer :)<br>
-This project started from a code-example I wrote for fun during the weekend in order to see how difficult is it to implement our own API.
-Later on I used it to help Bluesnap merchants and finally I decided to take it one step further and implement more API calls.<br>
-At that point <a href="https://www.linkedin.com/pub/ben-hultin/40/877/827">Ben Hultin</a> came into the picture 
-and was kind enough to help me implement the rest of the services.
->>>>>>> 556d7ee9f3e8191a9610397784c987136a44b41e
-
 The PHP code examples implement the following web-services:<br>
 1. create and update shopper entities<br>
 2. place orders<br>
